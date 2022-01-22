@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: lightgoldenrodyellow;
+}
+body{
+	background-color: orange;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:orange; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: goldenrod;
+}
+.navbar-brand{
+font-size: 30px;
+}
+#myNavbar {text-align: center;}
+a span{vertical-align: middle;}
+#mytitle{color: orange;}
